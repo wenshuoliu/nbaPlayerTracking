@@ -1,9 +1,13 @@
 Package: nbaPlayerTracking
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Title: Analysis of NBA data (Title Case)
+Version: 0.0.0.9000
+Author: Wenshuo Liu
+Maintainer: Wenshuo Liu <wenshuoliu@gmail.com>
+Description: This package grabs data from nba.com, and do some analysis and
+    visualization.
+License: GPL
 LazyData: TRUE
+Imports:
+    ggplot2
+RoxygenNote: 5.0.1
